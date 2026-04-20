@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+
+.title h1 {
+    font-family: 'Macondo', cursive;
+    font-size: clamp(15vw, 20vh, 20vw);
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}

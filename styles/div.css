@@ -1,0 +1,29 @@
+.land {
+    width: 100%;
+    height: 100%;
+
+    background-image: url('../images/lands/land_one.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.seed {
+    height: 10vh;
+    aspect-ratio: 1 / 1;
+    
+    position: absolute;
+    right: 0;
+}
+
+.seed img {
+    width: 100%;
+    height: auto;
+}
