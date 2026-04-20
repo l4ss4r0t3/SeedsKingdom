@@ -6,3 +6,10 @@
     color: white;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
+
+.texto h2 {
+    font-family: 'Macondo', cursive;
+    font-size: clamp(5vw, 10vh, 10vw);
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
